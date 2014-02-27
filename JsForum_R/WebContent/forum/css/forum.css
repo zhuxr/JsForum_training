@@ -1,0 +1,160 @@
+BODY {
+	BACKGROUND-COLOR: #ffffff; 
+	FONT-FAMILY: Verdana, Arial, Helvetica;
+	FONT-SIZE: 10px; 
+	BORDER-BOTTOM: 5px; 
+	BORDER-LEFT: 5px; 
+	BORDER-RIGHT: 5px; 
+	BORDER-TOP: 5px; 
+	MARGIN: 5px; 
+	PADDING-BOTTOM: 5px; 
+	PADDING-LEFT: 5px; 
+	PADDING-RIGHT: 5px; 
+	PADDING-TOP: 5px
+}
+
+A:link {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #7E9FD0; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none 
+}
+
+
+.pathBar{
+	background-color: #FFFFFF;
+}
+
+.pathBarSeperator{
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 11px; 
+}
+.pathBarLink:link {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.pathBarLink:visited {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.pathBarLink:hover {
+	COLOR: #7E9FD0; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.pathBarLink:active {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none 
+}
+
+.forumLink:link {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.forumLink:visited {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.forumLink:hover {
+	COLOR: #7E9FD0; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.forumLink:active {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none 
+}
+
+.forumInfo {
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
+
+.forumTopics {
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
+
+.forumReplies {
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
+
+.forumPostInfo {
+	COLOR: #000000; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
+
+.forumDelete:link {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+.forumDelete:visited {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+.forumDelete:hover {
+	COLOR: #7E9FD0; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none
+}
+.forumDelete:active {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+	TEXT-DECORATION: none 
+}
+
+.copyRight {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
+
+.infobar {
+	COLOR: #304C77; 
+	FONT-FAMILY: Verdana, Arial, Helvetica; 
+	FONT-SIZE: 10px; 
+}
